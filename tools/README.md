@@ -152,7 +152,4 @@ This uses SQL authentication instead of Windows integrated authentication to con
 - Review CSV outputs in Excel, Power BI, or your preferred analysis tool to trend waits, I/O, and configuration across servers.  
 - This script is read-only against SQL Server (DMV and metadata queries only); it does not modify configuration or objects.  
 
-## License
-
-Add your preferred license here (for example MIT, Apache 2.0, etc.) and include the corresponding `LICENSE` file in the repository.
 
