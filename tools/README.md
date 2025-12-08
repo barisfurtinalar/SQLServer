@@ -100,7 +100,7 @@ param(
 Clone this repository or download the script file:
 
 ```powershell
-git clone https://github.com/<your-account>/<your-repo>.git
+git clone https://github.com/barisfurtinalar/tools/Assess-SQLServer.ps1.git
 cd <your-repo>
 ```
 
